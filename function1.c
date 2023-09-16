@@ -76,7 +76,8 @@ return (write_unsgnd(0, i, buffer, flags, width, precision, size));
 }
 
 /**
- * print_hexadecimal - a function that prints an unsigned number in hexadecimal notation
+ * print_hexadecimal - a function that prints an unsigned
+ * number in hexadecimal notation
  * @types: arguments
  * @buffer: pointer array
  * @flags: flag
@@ -94,7 +95,8 @@ flags, 'x', width, precision, size));
 }
 
 /*
- * print_hexa_upper - a function that prints an unsigned number in upper hexadecimal notation
+ * print_hexa_upper - a function that prints an unsigned
+ * number in upper hexadecimal notation
  * @types: arguments
  * @buffer: array pointer
  * @flags:  flags
