@@ -93,7 +93,7 @@ UNUSED(buffer);
 UNUSED(flags);
 UNUSED(width);
 UNUSED(precision);
-UNUSED(size);	
+UNUSED(size);
 return (write(1, "%%", 1));
 }
 
